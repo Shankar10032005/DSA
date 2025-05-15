@@ -35,3 +35,15 @@ The main objectives of this project are:
 - To enhance my problem-solving skills through regular practice.
 - To build a habit of coding daily.
 - To provide helpful solutions for others learning DSA.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shankar10032005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shankar10032005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
