@@ -42,6 +42,7 @@ The main objectives of this project are:
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Shankar10032005/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Shankar10032005/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shankar10032005/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shankar10032005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,5 +78,10 @@ The main objectives of this project are:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shankar10032005/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shankar10032005/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
