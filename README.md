@@ -43,6 +43,7 @@ The main objectives of this project are:
 | ------- |
 | [0031-next-permutation](https://github.com/Shankar10032005/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shankar10032005/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shankar10032005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shankar10032005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shankar10032005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -67,9 +68,14 @@ The main objectives of this project are:
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shankar10032005/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shankar10032005/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
