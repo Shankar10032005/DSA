@@ -49,6 +49,7 @@ The main objectives of this project are:
 | [0118-pascals-triangle](https://github.com/Shankar10032005/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shankar10032005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shankar10032005/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Shankar10032005/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shankar10032005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shankar10032005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ The main objectives of this project are:
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shankar10032005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shankar10032005/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Shankar10032005/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shankar10032005/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
@@ -95,4 +97,12 @@ The main objectives of this project are:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shankar10032005/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shankar10032005/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shankar10032005/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
