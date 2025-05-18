@@ -6,7 +6,7 @@ class Solution {
 
         for(int i=0;i<=nums.length-1;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-            if(map.get(nums[i])==len  && !list.contains(nums[i])){
+            if(map.get(nums[i])>=len  && !list.contains(nums[i])){
                 list.add(nums[i]);
             }
             if(list.size()==2 ){
