@@ -42,6 +42,7 @@ The main objectives of this project are:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shankar10032005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shankar10032005/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shankar10032005/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shankar10032005/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shankar10032005/DSA/tree/master/0053-maximum-subarray) |
@@ -67,6 +68,7 @@ The main objectives of this project are:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shankar10032005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shankar10032005/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shankar10032005/DSA/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shankar10032005/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -103,6 +105,7 @@ The main objectives of this project are:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shankar10032005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shankar10032005/DSA/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Shankar10032005/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
