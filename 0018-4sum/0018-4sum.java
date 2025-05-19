@@ -1,22 +1,49 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        HashSet<List<Integer>> ans=new HashSet<>();
+        Arrays.sort(nums);
+        List<List<Integer>> list=new ArrayList<>();
+        int a=0;
+        while(a<=nums.length-4){
+            int b=a+1;
+            while(b<=nums.length-3){
+            int c=b+1;
+            int d=nums.length-1;
 
-        for(int a=0;a<=nums.length-1;a++){
-            for(int b=a+1;b<=nums.length-1;b++){
-                HashSet<Long> set=new HashSet<>();
-                for(int c=b+1;c<=nums.length-1;c++){
-                     long currentSum = (long) nums[a] + nums[b] + nums[c];
-                    long rem=(long) target - currentSum;;
-                    if(set.contains(rem)){
-                        List<Integer> four=Arrays.asList(nums[a],nums[b],nums[c],(int)rem);
-                        Collections.sort(four);
-                        ans.add(four);
-                    }
-                    set.add((long)nums[c]);
+            while(c<d){
+                long sum = (long) nums[a] + nums[b] + nums[c] + nums[d];
+
+                if(sum < target){
+                    c++;
                 }
+                else if(sum > target){
+                    d--;
+                }
+                else{
+                    List<Integer> four=Arrays.asList(nums[a],nums[b],nums[c],nums[d]);
+                    list.add(four);
+                    c++;
+                    d--;
+                    while(nums[c]==nums[c-1] && c<d){
+                        c++;
+                    }
+                     while(nums[d]==nums[d+1] && c<d){
+                        d--;
+                    }
+                }
+
             }
+            b++;
+        while(nums[b]==nums[b-1] && b<=nums.length-3){
+            b++;
         }
-        return new ArrayList<>(ans);
+        }
+        
+        a++;
+        while(nums[a]==nums[a-1] && a<=nums.length-4){
+            a++;
+        }
+        }
+
+        return new ArrayList<>(list);
     }
 }
