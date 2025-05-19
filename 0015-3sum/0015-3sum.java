@@ -15,7 +15,6 @@ class Solution {
                 list.add(nums[j]);
             }
         }
-        ArrayList<List<Integer>> ans =new ArrayList<>(result);
-        return ans;
+         return new ArrayList<>(result);
     }
 }
