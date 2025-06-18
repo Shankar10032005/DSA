@@ -97,6 +97,7 @@ The main objectives of this project are:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shankar10032005/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shankar10032005/DSA/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
